@@ -1,0 +1,74 @@
+{
+    "00001": [
+        {
+            "text": "sky are",
+            "probability": 0.3116249211602179,
+            "start_logit": 0.25537109375,
+            "end_logit": 0.292724609375
+        },
+        {
+            "text": "sky are red, vegetation is",
+            "probability": 0.28806524729894484,
+            "start_logit": 0.25537109375,
+            "end_logit": 0.214111328125
+        },
+        {
+            "text": "vegetation is",
+            "probability": 0.2874329863103443,
+            "start_logit": 0.253173828125,
+            "end_logit": 0.214111328125
+        },
+        {
+            "text": "",
+            "probability": 0.11287684523049293,
+            "start_logit": -0.380126953125,
+            "end_logit": -0.0872802734375
+        }
+    ],
+    "00002": [
+        {
+            "text": "omantic powers, while \"Mistborns\" have",
+            "probability": 0.45216849373955853,
+            "start_logit": 0.35498046875,
+            "end_logit": 0.3291015625
+        },
+        {
+            "text": "\"Mistings\" have only one of the many Allomantic powers, while \"Mistborns\" have",
+            "probability": 0.4273735263259182,
+            "start_logit": 0.298583984375,
+            "end_logit": 0.3291015625
+        },
+        {
+            "text": "",
+            "probability": 0.12045797993452326,
+            "start_logit": -0.36865234375,
+            "end_logit": -0.27001953125
+        }
+    ],
+    "00003": [
+        {
+            "text": "omantic powers, while \"Mistborns\" have",
+            "probability": 0.3563435702260139,
+            "start_logit": 0.449462890625,
+            "end_logit": 0.3095703125
+        },
+        {
+            "text": "\"Mistings\" have only one of the many Allomantic powers, while \"Mistborns\" have",
+            "probability": 0.2999981205299872,
+            "start_logit": 0.27734375,
+            "end_logit": 0.3095703125
+        },
+        {
+            "text": "\"Mistings\" have",
+            "probability": 0.2661407311031367,
+            "start_logit": 0.27734375,
+            "end_logit": 0.1898193359375
+        },
+        {
+            "text": "",
+            "probability": 0.07751757814086219,
+            "start_logit": -0.364501953125,
+            "end_logit": -0.40185546875
+        }
+    ]
+}
